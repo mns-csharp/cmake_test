@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pc/git/cmake_test/src/models/SavingsAccount.cpp
+SavingsAccount.h
+C:/Users/pc/git/cmake_test/src/models/SavingsAccount.h
+
+C:/Users/pc/git/cmake_test/src/models/SavingsAccount.h
+base/Account.h
+C:/Users/pc/git/cmake_test/src/models/base/Account.h
+
+C:/Users/pc/git/cmake_test/src/models/base/Account.h
+iostream
+-
+string
+-
+ctime
+-
+

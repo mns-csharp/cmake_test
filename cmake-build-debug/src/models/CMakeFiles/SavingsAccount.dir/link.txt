@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libSavingsAccount.a  CMakeFiles/SavingsAccount.dir/SavingsAccount.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libSavingsAccount.a

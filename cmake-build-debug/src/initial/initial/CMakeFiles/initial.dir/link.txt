@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\..\lib\libInitial.a  CMakeFiles/Initial.dir/initial.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\..\lib\libInitial.a

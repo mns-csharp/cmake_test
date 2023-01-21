@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\..\lib\libAccount.a  CMakeFiles/Account.dir/Account.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\..\lib\libAccount.a
