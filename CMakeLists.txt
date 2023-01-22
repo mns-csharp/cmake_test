@@ -14,3 +14,5 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/${CMAKE_INSTALL_BINDIR})
 
 # defines targets and sources
 add_subdirectory(src)
+
+##### x x x target_include_directories(src PRIVATE ${CMAKE_SOURCE_DIR} )

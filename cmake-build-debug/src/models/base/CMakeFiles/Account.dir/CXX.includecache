@@ -6,15 +6,17 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/pc/git/cmake_test/src/models/base/Account.cpp
-Account.h
-C:/Users/pc/git/cmake_test/src/models/base/Account.h
-
-C:/Users/pc/git/cmake_test/src/models/base/Account.h
+../src/models/base/Account.h
 iostream
 -
 string
 -
 ctime
+-
+
+C:/Users/pc/git/cmake_test/src/models/base/Account.cpp
+Account.h
+-
+initial/initial/initial.h
 -
 

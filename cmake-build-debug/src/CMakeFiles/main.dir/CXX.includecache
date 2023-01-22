@@ -6,3 +6,33 @@
 
 #IncludeRegexTransform: 
 
+../src/initial/initial/initial.h
+
+../src/main.h
+cstdio
+-
+
+../src/models/SavingsAccount.h
+base/Account.h
+../src/models/base/Account.h
+
+../src/models/base/Account.h
+iostream
+-
+string
+-
+ctime
+-
+
+C:/Users/pc/git/cmake_test/src/main.cpp
+iostream
+-
+models/base/Account.h
+-
+models/SavingsAccount.h
+-
+main.h
+-
+initial/initial/initial.h
+-
+

@@ -10,3 +10,5 @@ target_link_libraries(main # target lib
         SavingsAccount
         Initial # to be linked li
   )
+
+target_include_directories(main PUBLIC ${CMAKE_CURRENT_LIST_DIR} )

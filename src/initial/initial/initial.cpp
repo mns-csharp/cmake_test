@@ -1,4 +1,4 @@
-#include "initial.h"
+#include <initial.h>
 #include <cstdio>
 
 void blank_function()

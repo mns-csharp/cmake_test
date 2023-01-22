@@ -1,4 +1,6 @@
-# leaf files
+# models
+# intermediate file
+# done
 add_library(SavingsAccount "")
 
 target_sources(SavingsAccount
@@ -11,4 +13,5 @@ target_sources(SavingsAccount
 target_include_directories( SavingsAccount
         PUBLIC
     ${CMAKE_CURRENT_LIST_DIR}
+        ${CMAKE_SOURCE_DIR}/initial/initial/
   )

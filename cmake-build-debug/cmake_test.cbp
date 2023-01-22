@@ -44,7 +44,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="C:/Users/pc/git/cmake_test/src"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models/base"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
@@ -69,7 +71,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
+					<Add directory="C:/Users/pc/git/cmake_test/src"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models/base"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models"/>
 					<Add directory="C:/Users/pc/git/cmake_test/src/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
@@ -95,6 +99,7 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models/base"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
@@ -118,6 +123,7 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models/base"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
@@ -141,6 +147,7 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
@@ -164,6 +171,7 @@
 				<Option compiler="gcc"/>
 				<Compiler>
 					<Add directory="C:/Users/pc/git/cmake_test/src/models"/>
+					<Add directory="C:/Users/pc/git/cmake_test/initial/initial"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/x86_64-w64-mingw32"/>
 					<Add directory="c:\mingw64\bin\../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include/c++/11.2.0/backward"/>
